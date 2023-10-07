@@ -1,19 +1,23 @@
-# Fundamentals of Python and data analysis
+# Music Preferences in Metropolitan Areas
 
 __Music of big cities__
 
 __Client__ - [Yandex.Music](https://music.yandex.ru/).
 
-__Input data__ - music listening data for Moscow and St. Petersburg.
+__Overview:__ - This project aims to analyze music listening data for two major Russian cities, Moscow and St. Petersburg, as provided by our client, Yandex.Music. The primary objective is to gain insights into user preferences within these urban areas.
 
 __Target__ - researching user preferences.
 
 __What's done__:
-- data exploration;
-- data preprocessing;
-- the difference in the most and least active days between Moscow and St. Petersburg was found;
-- founded that there is no big difference between most listened genres on the start of weekdays and at the end of weekdays in Moscow and St. Petersburg;
-- founded that pop is more popular in Moscow and hip-hop is at the same positions in popularity despite the richer hip-hop culture in St. Petersburg.
+1. Data Exploration: We began by exploring the dataset to understand its structure and contents.
+
+2. Data Preprocessing: The data underwent preprocessing to ensure accuracy and consistency.
+
+3. City Comparison: We identified differences in music listening patterns between Moscow and St. Petersburg, particularly focusing on the most and least active days.
+
+4. Genre Analysis: We analyzed the popularity of music genres at the start and end of weekdays in both cities.
+
+5. Pop vs. Hip-Hop: Despite St. Petersburg's rich hip-hop culture, we found that pop music is more popular in Moscow, with hip-hop maintaining consistent popularity in both cities.
 
 
 __Tools used__ - pandas.
